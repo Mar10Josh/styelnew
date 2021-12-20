@@ -1,0 +1,11 @@
+note {
+      background-color: grey;
+      color: white;
+    }
+    body {
+      background-color: black;
+      color: white
+    }
+    sname {
+      transform: scale(25);
+    }
